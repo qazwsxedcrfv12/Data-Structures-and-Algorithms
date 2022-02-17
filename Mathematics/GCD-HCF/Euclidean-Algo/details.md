@@ -6,4 +6,4 @@
   <li> GCD(a,b) = GCD(a-b,b) if bis less than a. </li>
 </pre>
 
-<code> <a href="https://en.wikipedia.org/wiki/Euclidean_algorithm">Read More: Detailed Euclidean Algorithm</a></code>
+<code> <a href="https://en.wikipedia.org/wiki/Euclidean_algorithm" target="_blank">Read More: Detailed Euclidean Algorithm</a></code>
