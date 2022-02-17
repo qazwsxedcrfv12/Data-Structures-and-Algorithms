@@ -6,6 +6,7 @@
  <ul>
    <li><a href="https://github.com/qazwsxedcrfv12/Data-Structures-and-Algorithms/tree/master/Mathematics/Count-Digits">Count-Digits</a></li>
    <li><a href="https://github.com/qazwsxedcrfv12/Data-Structures-and-Algorithms/tree/master/Mathematics/Palindrome-Numbers">Palindrom-Numbers</a></li>
+    <li><a href="https://github.com/qazwsxedcrfv12/Data-Structures-and-Algorithms/tree/master/Mathematics/GCD-HCF">GCD-HCF</a></li>
   </ul>
 </details>
 
