@@ -1,3 +1,4 @@
+# Count Digits in a given number
 <pre>
    The logic to find the no of digits in given no is:
    Iterative approach : Traverse every digit of no and increase count by 1 until it become zero.
