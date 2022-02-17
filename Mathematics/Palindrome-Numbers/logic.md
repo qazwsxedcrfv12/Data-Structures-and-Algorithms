@@ -1,3 +1,4 @@
+# Check if the given number is Palindrome
 <pre>
   The logic to find if the given number is plaindrome or not is to reverse the given number and check if orginal no
   and reversed number is same or not.
