@@ -13,7 +13,7 @@
 </details>
 <hr>
 <details>
-  <summary><a href="https://github.com/qazwsxedcrfv12/Data-Structures-and-Algorithms/tree/master/Mathematics">Bit-Manipulation</a></summary>
+  <summary><a href="https://github.com/qazwsxedcrfv12/Data-Structures-and-Algorithms/tree/master/Bit-Manipulation">Bit-Manipulation</a></summary>
  <pre>
    <li><a href="https://github.com/qazwsxedcrfv12/Data-Structures-and-Algorithms/tree/master/Mathematics/Count-Digits">Count-Digits</a></li>
    <li><a href="https://github.com/qazwsxedcrfv12/Data-Structures-and-Algorithms/tree/master/Mathematics/Palindrome-Numbers">Palindrom-Numbers</a></li>
