@@ -1,4 +1,4 @@
-# LCM (LEast Common Multiple) of a number.
+# LCM (Least Common Multiple) of a number.
 <pre>
     The Least Common Multiple ( LCM ) is also referred to as the Lowest Common Multiple ( LCM ) and Least Common Divisor ( LCD) . 
     For two integers a and b, denoted LCM(a,b), the LCM is the smallest positive integer that is evenly divisible by both a and b. 
