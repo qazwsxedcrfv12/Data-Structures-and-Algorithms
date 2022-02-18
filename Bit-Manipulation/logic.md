@@ -1,4 +1,6 @@
 # Bitwise operators
+![bimary](https://user-images.githubusercontent.com/47034350/154753072-41faacaf-91cf-43aa-af87-386202e1f122.png)
+
 <pre>
    Bit manipulation is the act of algorithmically manipulating bits or other pieces of data shorter than a word. 
    Computer programming tasks that require bit manipulation include low-level device control, error detection and 
